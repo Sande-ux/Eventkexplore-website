@@ -2,13 +2,13 @@ EventPulse — Modern Event Management Platform
 
 EventPulse is a feature-rich, responsive single-page web application designed for discovering events, viewing agenda details, reserving standard or VIP passes with real-time client-side form validation, generating dynamic digital QR tickets, and managing pass registrations locally.
 
-🚀 Live Demo & Repository Links
+ Live Demo & Repository Links
 
 Live Website: https://sande-ux.github.io/Eventkexplore-website/
 
 GitHub Repository: https://github.com/Sande-ux/Eventkexplore-website
 
-✨ Key Features & Technical Capabilities
+Key Features & Technical Capabilities
 
 1. Header Navigation & Utility Actions
 
@@ -66,7 +66,7 @@ Offline Storage: All booked tickets are persisted in the browser's localStorage.
 
 Ticket Manager: Slide-over drawer allowing users to review all booked passes or cancel/delete individual registrations.
 
-🛠️ Built With
+Built With
 
 HTML5: Semantic document layout (<header>, <main>, <section>, <form>, <canvas>, <footer>).
 
@@ -78,14 +78,14 @@ Google Fonts: Inter font typography family.
 
 Vanilla JavaScript (ES6+): DOM manipulation, event listeners, timer intervals, local storage handler, HTML5 canvas rendering engine, and form validation logic.
 
-📁 Repository Structure
+ Repository Structure
 
-Eventkexplore-website/
-├── index.html       # Single-Page Application (HTML + Tailwind CSS + JavaScript Logic)
-└── README.md        # Comprehensive project documentation & submission guide
+Eventkexplore-website
+index.html       
+README.md        
 
 
-💻 How to Run Locally
+How to Run Locally
 
 Clone the Repository:
 
@@ -101,7 +101,7 @@ Launch the Web Page:
 
 Open index.html directly in any standard browser (Chrome, Edge, Firefox, Safari).
 
-Alternatively, use the Live Server extension in Visual Studio Code.
+
 
 📧 Contact & Support
 
